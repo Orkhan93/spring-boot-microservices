@@ -1,0 +1,12 @@
+az\spring\productservice\request\ProductRequest$ProductRequestBuilder.class
+az\spring\productservice\model\Product$ProductBuilder.class
+az\spring\productservice\mapper\ProductMapper.class
+az\spring\productservice\response\ProductResponse.class
+az\spring\productservice\repository\ProductRepository.class
+az\spring\productservice\request\ProductRequest.class
+az\spring\productservice\mapper\ProductMapperImpl.class
+az\spring\productservice\ProductServiceApplication.class
+az\spring\productservice\service\ProductService.class
+az\spring\productservice\model\Product.class
+az\spring\productservice\response\ProductResponse$ProductResponseBuilder.class
+az\spring\productservice\controller\ProductController.class
