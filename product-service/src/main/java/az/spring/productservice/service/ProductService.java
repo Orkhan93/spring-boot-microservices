@@ -29,9 +29,9 @@ public class ProductService {
         log.info("Product {} is saved", product.getId());
     }
 
-
     public List<ProductResponse> getAllProducts() {
         List<Product> products = productRepository.findAll();
+        log.info("Products list {}", products);
         return products.stream().map(productMapper::fromModelToResponse).toList();
     }
 }
